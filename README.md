@@ -6,7 +6,7 @@
   Awesome CV
 </h1>
 
-<p align="center">
+<p align="left">
   This is Hichem HAMDAOUI CV generated using LaTeX technology [click here](https://github.com/hichem1987/Awesome-CV/blob/master/resume.pdf) to view my CV.<br> I have used Awesome CV Latex Template to build it .
 </p>
 
