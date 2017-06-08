@@ -7,7 +7,7 @@
 </h1>
 
 <p align="left">
-  This is Hichem HAMDAOUI CV generated using LaTeX technology [click here](https://github.com/hichem1987/Awesome-CV/blob/master/resume.pdf) to view my CV.<br> I have used Awesome CV Latex Template to build it .
+  This is Hichem HAMDAOUI CV generated using LaTeX technology <a href="https://github.com/hichem1987/Awesome-CV/blob/master/resume.pdf">click here</a> to view my CV.<br> I have used Awesome CV Latex Template to build it .
 </p>
 
 
