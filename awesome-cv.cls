@@ -236,7 +236,7 @@
 \newcommand*{\entrypositionstyle}[1]{{\fontsize{8pt}{1em}\bodyfont\scshape\color{graytext} #1}}
 \newcommand*{\entrydatestyle}[1]{{\fontsize{8pt}{1em}\bodyfontlight\slshape\color{graytext} #1}}
 \newcommand*{\entrylocationstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\slshape\color{awesome} #1}}
-\newcommand*{\descriptionstyle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{text} #1}}
+\newcommand*{\descriptionstyle}[2]{{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{text} #1}{\setstretch{4.0}\fontsize{11pt}{5em}\bodyfontlight\upshape\color{graytext} #2}}
 \newcommand*{\Technlogies}[1]{{\fontsize{9pt}{1em}\bodyfontlight\upshape #1}}
 \newcommand*{\UrlTitle}[1]{{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{awesome} #1}}
 \newcommand*{\UrlElement}[1]{{\fontsize{9pt}{1em}\bodyfontlight\upshape\color{blue} #1}}
